@@ -2,4 +2,4 @@
 
 ## A Maven Project used for Jenkins Training.
 
-Instructions to come soon from Brian
+Instructions to come soon from Brian Palagyi
